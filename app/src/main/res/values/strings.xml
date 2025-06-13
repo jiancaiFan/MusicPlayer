@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">乐橘畅听</string>
+    <string name="home_page_navigation_title">乐橘播放器</string>
+    <string name="play_back_control_detail">详情</string>
+    <string name="app_navigationBar_back_button">返回</string>
+    <string name="app_navigationBar_more_button">更多</string>
+    <string name="play_back_controlBar_pause">暂停</string>
+    <string name="play_back_controlBar_play">播放</string>
+    <string name="play_back_controlBar_previous_song">上一曲</string>
+    <string name="play_back_controlBar_next_song">下一曲</string>
+    <string name="play_list_loading_title">加载中...</string>
+</resources>
